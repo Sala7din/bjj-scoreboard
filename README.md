@@ -1,13 +1,16 @@
-# co0cc4ef1ac40276c6ee5ffbe
+# title(){return this.options.title||this.options.name}
 
-## About Scrimba
+## Supporting Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Since 2017, we have created over 20 free courses on Scrimba, and we're going to
+continue launching free courses. But to pay our bills, we have to charge once
+in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
+	one of our paid courses
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Become a professional React developer](https://scrimba.com/course/greact)
+- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
+- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+
+	It would also mean the world to us if you share the courses.  
 
 Happy Coding!
